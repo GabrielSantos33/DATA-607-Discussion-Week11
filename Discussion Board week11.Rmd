@@ -1,0 +1,69 @@
+---
+title: "Discussion/Assignment 11: Recommender Systems"
+author: "Gabriel Santos"
+date: "2022-11-01"
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
+---
+
+
+#### *Your task is to:Identify a recommender system web site, then Answer the three scenario design questions for this web site. This process of guessing/reverse engineering, while inexact, will help you build out your own ability to better account for “user needs” in designing recommender systems going forward.  Being able to place the customer first in your mind is a “soft skill” that is highly valued in the technical marketplace.*
+
+
+
+
+wine-searcher.com is a social platform for wine recommendations. In addition to its website, it has an application with great ratings by users in the different digital stores. The search engine allows you to find wines from all over the world at the best market price.
+
+#### *1. Who are your target users?*
+
+
+The target users are all those people who need to consult information about a specific wine. Also users who require a suggestion of a wine according to their tastes.
+
+
+#### *2. What are their key goals?*
+
+
+It has a search engine and a system that allows users to receive personalized suggestions, based on the evaluations of wine tastings that the user has previously tasted and made the evaluation. The greater the number of evaluations made by the user on the platform, the more accurate the advice will be.
+Wine-Searcher.com uses wine label recognition to retrieve a wealth of information, including vintage classification, grape varieties, and caloric load nutritional information.
+
+
+#### *3. How can you help them accomplish those goals?*
+
+
+The standout feature of Wine-Searcher.com is its extensive price and availability database, making it easy for users to find out where to get a particular vintage and how much it will cost.
+Features of its premium option include: a personal wine diary, a GPS-based warehouse or cellar finder.
+
+
+#### *Design Analysis*
+
+
+The page is designed for specific queries, such as region, type of grape, and type of food. The website interface is user friendly and clear. allows the user to consult easily.
+
+*Organization*: The goal of the organization is to constantly expand its wine database. To be updating the information of the wines. Have a broad classification of the wines, for example, the regions, the best rated wines currently.
+Have updated listings like:
+Top 100 Most Searched For Wines
+Top 10 Best Value Wines
+Top 50 Most Expensive Wines
+
+*Users*: The goal for users is to be able to easily find the information on the wine they are looking for. 
+Get recommendations based on your wine tastes. Be able to locate a nearby place to buy the wine you are looking for. Receive recommendations for a specific type of wine.
+
+#### *Recommendation to improve the capabilities of the web platform:*
+
+
+I think that one option to improve the capabilities of Wine-Searcher.com is to allow the user to find the warehouses through the location map, currently the page does it through a list of warehouses but nowadays users like to be able to consult in a way interactive through the map the locations of the different warehouses.
+
+
+
+
+**Link: https://www.wine-searcher.com/**
+
+
+
+
+
+
+
+
